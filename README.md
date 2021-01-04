@@ -37,10 +37,9 @@ npm install
 npm start
 ```
 
-4. Once the proxy server is running, open [`client/index.html`](https://github.com/flexmonster/pivot-elasticsearch-proxy/blob/main/client/index.html) in your browser. Notice that the proxy processes all Flexmonster requests.
+4. Once the proxy server is running, open [`client/index.html`](https://github.com/flexmonster/pivot-elasticsearch-proxy/blob/main/client/index.html) in your browser. Note that the proxy processes all Flexmonster requests.
 
 
-## Configuration
+## Usage
  
-For details on further configuration, refer to [Configuring the mapping](https://www.flexmonster.com/doc/configuring-the-mapping/) tutorial.
-
+For details on further configuration and usage, refer to the [Connecting to Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/) guide.
