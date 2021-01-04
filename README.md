@@ -10,7 +10,7 @@ This repository holds the source code for a project demonstrating how to connect
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Configuration](#configuration)
+- [Usage](#usage)
 
 ## Prerequisites
 
