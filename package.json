@@ -1,0 +1,19 @@
+{
+  "name": "pivot-elasticsearch-proxy",
+  "version": "1.0.0",
+  "description": "A sample demonstrating how to connect to Elasticsearch with Flexmonster Pivot via proxy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flexmonster/pivot-elasticsearch-proxy"
+  },
+  "main": "proxy-server/elasticsearch-proxy.js",
+  "scripts": {
+    "start": "node proxy-server/elasticsearch-proxy.js"
+  },
+  "author": "Flexmonster",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
