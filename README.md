@@ -1,6 +1,6 @@
 # Connect Flexmonster Pivot Table & Charts to Elasticsearch via a proxy server
 [![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
-Website: www.flexmonster.com
+Website: [www.flexmonster.com](https://www.flexmonster.com)
 
 ## Flexmonster Pivot Table & Charts
 
