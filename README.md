@@ -1,6 +1,6 @@
 # Connect Flexmonster Pivot Table & Charts to Elasticsearch via a proxy server
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
-Website: [www.flexmonster.com](https://www.flexmonster.com)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com/?r=github)
+Website: [www.flexmonster.com](https://www.flexmonster.com/?r=github)
 
 ## Flexmonster Pivot Table & Charts
 
@@ -44,4 +44,4 @@ npm start
 
 ## Related Flexmonster docs
  
-- [Connecting to Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/) — refer to this guide for details on Flexmonster configuration and usage.
+- [Connecting to Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/?r=github) — refer to this guide for details on Flexmonster configuration and usage.
