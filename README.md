@@ -26,8 +26,7 @@ Table of contents:
 1. Download a `.zip` archive with the sample project or clone it from GitHub with the following commands:
 
 ```bash
-git clone https://github.com/flexmonster/pivot-elasticsearch-proxy
-cd pivot-elasticsearch-proxy
+git clone https://github.com/flexmonster/pivot-elasticsearch-proxy && cd pivot-elasticsearch-proxy
 ```
 
 2. Install the npm dependencies described in `package.json`:
