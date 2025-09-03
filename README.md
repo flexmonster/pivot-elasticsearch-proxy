@@ -23,7 +23,7 @@ Table of contents:
 
 ## Installation
 
-1. Download a `.zip` archive with the sample project or clone it from GitHub with the following commands:
+1. Download a `.zip` archive with the sample project or clone it from GitHub with the following command:
 
 ```bash
 git clone https://github.com/flexmonster/pivot-elasticsearch-proxy && cd pivot-elasticsearch-proxy
@@ -46,7 +46,7 @@ npm start
 
 ## Related Flexmonster docs
  
-- [Connecting to Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/?r=github) — refer to this guide for details on Flexmonster configuration and usage.
+- [Connecting to Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/?r=github) — see details on Flexmonster configuration and usage.
 
 ## Support and feedback
 
